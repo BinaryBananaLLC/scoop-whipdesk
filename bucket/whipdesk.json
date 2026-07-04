@@ -1,0 +1,12 @@
+{
+    "version": "0.0.1",
+    "description": "Instantly access your development machine from any mobile browser. Monitor and control AI coding agents from anywhere. No installation. Built for vibecoders.",
+    "homepage": "https://whipdesk.com",
+    "bin": "WhipDesk.exe",
+    "shortcuts": [
+        [
+            "WhipDesk.exe",
+            "WhipDesk"
+        ]
+    ]
+}
