@@ -1,12 +1,12 @@
 {
-  "version": "0.2.3",
+  "version": "0.2.4",
   "description": "Remote desktop and AI-agent status alerts, controlled from a mobile browser",
   "homepage": "https://whipdesk.com/",
   "license": "AGPL-3.0",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/BinaryBananaLLC/WhipDesk/releases/download/v0.2.3/whipdesk-0.2.3-windows-x64.zip",
-      "hash": "465d4e7c18d4c40964ce710773e2bb47641b6190208f2a8f831d23dac3eef43e",
+      "url": "https://github.com/BinaryBananaLLC/WhipDesk/releases/download/v0.2.4/whipdesk-0.2.4-windows-x64.zip",
+      "hash": "4d949b46b46c8683dff6eb820cc90d3a926abed3f65c285ec1aab6b3e4739107",
       "extract_dir": "whipdesk"
     }
   },
